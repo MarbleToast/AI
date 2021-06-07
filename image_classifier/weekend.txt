@@ -1,0 +1,3 @@
+Whipped cream,Marshmallows,Outcome
+Yes,No,Not liked
+No,Yes,Liked
